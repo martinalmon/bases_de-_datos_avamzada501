@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+tienda.fs
+tienda.fs.index
+tienda.fs.lock
+tienda.fs.tmp
